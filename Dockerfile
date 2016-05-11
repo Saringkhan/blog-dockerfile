@@ -1,6 +1,6 @@
 FROM nginx
 
-MAINTAINER Jaynarol
+MAINTAINER Saringkhan
 
 RUN echo '\
 <!DOCTYPE html>\
@@ -14,23 +14,22 @@ RUN echo '\
     <div class="container">\
         <div class="row">\
             <div class="col-md-12 text-center">\
-                <h2>Jaynarol Simple Profile</h2>\
+                <h2>Saringkhan_ Simple Profile</h2>\
                 <br/>\
             </div>\
         </div>\
         <div class="row">\
             <div class="col-md-12 text-center">\
                 <div>\
-                    <img src="http://graph.facebook.com/100000981607529/picture?width=250" class="img-thumbnail">\
+                    <img src="http://graph.facebook.com/100001021438873/picture?width=250" class="img-thumbnail">\
                     <div>\
-                        <h3> Jaynarol Nova</h3>\
-                        <h5> <strong> Full Stack Devloper </strong></h5>\
-                        <p>The only way to do great work is to love what you do.</p>\
+                        <h3> Saringkhan_</h3>\
+                        <h5> <strong> iOS,Web Devloper & Network </strong></h5>\
+                        <p>Testing only</p>\
                         <hr>\
                         <a href="#" class="btn btn-default btn-sm">Facebook </a>\
                         <a href="#" class="btn btn-default btn-sm">Google</a>\
                         <a href="#" class="btn btn-default btn-sm">Twitter </a>\
-                        <a href="http://www.jaynarol.com" class="btn btn-default btn-sm">Blog </a>\
                     </div>\
                 </div>\
             </div>\
