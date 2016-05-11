@@ -25,7 +25,7 @@ RUN echo '\
                     <div>\
                         <h3> Saringkhan_</h3>\
                         <h5> <strong> iOS,Web Devloper & Network </strong></h5>\
-                        <p>Testing only</p>\
+                        <p>Dockerfile testing only</p>\
                         <hr>\
                         <a href="#" class="btn btn-default btn-sm">Facebook </a>\
                         <a href="#" class="btn btn-default btn-sm">Google</a>\
